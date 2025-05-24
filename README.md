@@ -2,28 +2,11 @@
 
 A full-stack application to manage and summarize your todos using AI. Users can add, update, and complete tasks — then instantly generate a smart summary of all pending todos powered by GPT-4o-mini. The summary is also sent to a Slack channel for seamless team communication.
 
-## 🌐 Live Demo
-
-🔗 [https://todo-summary-assistant-five.vercel.app/](https://todo-summary-assistant-five.vercel.app/)
-
-
-## 🎥 YouTube Explanation Video
-
-📺 [Watch on YouTube](https://youtu.be/stcKSfzl81I)
----
 
 ## 📂 Project Structure
 
 - `Frontend/`: Contains all React components, UI logic, and API integrations.
 - `Backend/`: Contains Express server, routes for todos and summarization, OpenAI integration, and Slack webhook logic.
-
-## 📐 System Architecture
-
-The following diagram illustrates how the system components interact:
-
-![System Architecture](./assets/architecture-diagram.png)
-
----
 
 ## 🖥 Frontend Setup
 
